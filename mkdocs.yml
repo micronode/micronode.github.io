@@ -7,6 +7,9 @@ theme:
 repo_url: https://github.com/micronode/micronode.github.io
 repo_name: micronode/micronode.github.io
 extra:
+  analytics:
+    provider: google
+    property: UA-402774-13
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/micronode
@@ -15,8 +18,9 @@ extra:
 nav:
   - Overview:
     - Introduction: index.md
-  - Projects:
-    - Overview: projects/index.md
+    - Modularity: modularity.md
+    - Releases: releases.md
+  - Projects: projects.md
   - References:
     - Resources: resources.md
   - FAQ: faq.md
