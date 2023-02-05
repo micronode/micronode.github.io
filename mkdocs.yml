@@ -16,7 +16,7 @@ nav:
   - Overview:
     - Introduction: index.md
   - Projects:
-    - Overview: projectes/index.md
+    - Overview: projects/index.md
   - References:
     - Resources: resources.md
   - FAQ: faq.md
